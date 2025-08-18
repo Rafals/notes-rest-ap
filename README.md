@@ -21,8 +21,3 @@ Projekt wykonany w ramach zadania rekrutacyjnego.
   - GET `/notes` — pobranie listy notatek
   - GET `/notes/{id}` — pobranie notatki po ID
   - DELETE `/notes/{id}` — usunięcie notatki po ID
-
-## Uruchomienie
-1. Sklonuj repozytorium:
-   ```bash
-   git clone https://github.com/<twoj-user>/notes-rest-api.git
